@@ -19,3 +19,5 @@ And this is when user *put in* their email address.
 ![ภาพ](https://user-images.githubusercontent.com/125641945/220958779-cc57b4ce-9d75-4b49-bc7f-d3f7e82a715f.png)
 
 I'm still new to this but trying to challenge myself so it may not be perfect.  
+
+*PS. in login use have to put in receiving email address and password in my case would be my email.*
