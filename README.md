@@ -8,8 +8,8 @@ This project is to **create GUI interface with tkinter for user to send email to
   
   **for example**
   
-  ![ภาพ](https://user-images.githubusercontent.com/125641945/220957406-1d2bbee1-133d-47cf-a137-982e1304dfe0.png)
-
+  ![ภาพ](https://user-images.githubusercontent.com/125641945/220959553-ff7d84db-c572-4692-b00d-ea15cf933bf1.png)
+  
 Below is when user *don't put in* their email address.
 
 ![ภาพ](https://user-images.githubusercontent.com/125641945/220958264-f0c1cfb3-fc48-4f8d-a1d4-4c04b0b782f0.png)
