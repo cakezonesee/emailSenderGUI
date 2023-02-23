@@ -1,12 +1,12 @@
 # emailSenderGUI
 
-This project is to *create GUI interface with tkinter for user to send email to predefined email address* where *user* have to put in *their email address* but in fact the email that use to send the email is *not* user's email but actually was sent by the *predefined* email address or *the receiving* email which mean user *don't have to* use their password and *don't have to give permission* to access their email. 
+This project is to **create GUI interface with tkinter for user to send email to predefined email address** where **user** have to put in **their email address** but in fact the email that use to send the email is **not** user's email but actually was sent by the *predefined* email address or **the receiving** email which mean user **don't have to** use their password and **don't have to give permission** to access their email. 
 
-*The header of the email will be in the format.
+**The header of the email will be in the format.**
 
   {user's email address} - Subject: {subject}\n\n{email's body} 
   
-  *for example*
+  **for example**
   
   ![ภาพ](https://user-images.githubusercontent.com/125641945/220957406-1d2bbee1-133d-47cf-a137-982e1304dfe0.png)
 
