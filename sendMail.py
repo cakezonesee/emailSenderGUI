@@ -78,7 +78,7 @@ class mail:
 
         # Define the sender, recipient, subject, and body of the email
         sender = self.sendEn.get()
-        recipient = 'cakezonesee@gmail.com'
+        recipient = receiving_email
         subject = self.subEn.get()
         body = self.textEn.get(1.0, tk.END)
 
@@ -100,7 +100,7 @@ class mail:
                 smtp.ehlo()
 
                 # Login to the SMTP server with your email account
-                smtp.login('cakezonesee@gmail.com', 'iwjymxpzqsjsqdnw')
+                smtp.login(receiving_email, receiving_email_password)
                 # Send the email message
                 smtp.sendmail(sender, recipient, message)
 
