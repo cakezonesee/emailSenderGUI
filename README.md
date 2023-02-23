@@ -20,4 +20,4 @@ And this is when user *put in* their email address.
 
 I'm still new to this but trying to challenge myself so it may not be perfect.  
 
-**PS. in login use have to put in receiving email address and password in my case would be my email.**
+**PS. in login you have to put in receiving email address and password in my case would be my email.**
